@@ -1,0 +1,9 @@
+Admin Menu Passkey is 00252
+If you're having issues adding new Data to ArtData.xlsx, feel free to add them manually through the excel,
+all images are saved as "src/resources/images/'title_with_spaces'.jpg".
+You'll want to add the art in succession, due to the fact that the art add from the top of the excel file, I predetermined some space at the beginning of the file just for that reason.
+The logic for the iterator can be seen at the bottom of MyPanel.
+Referring to my project proposal:
+MyPanel is where I handle most of the ArtForm data.
+Main Screen is where I handle my Viewing Screen data.
+
